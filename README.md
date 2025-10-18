@@ -19,7 +19,7 @@ I love turning complex problems into clear, reliable, and human-centered solutio
 [![Website](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://pragyakeshap.github.io)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragyakeshap/)   
 [![DZone](https://img.shields.io/badge/DZone-2C7BE5?logo=readme&logoColor=white)](https://dzone.com/users/5309371/pragya-keshap)   
-
+[![HackerNoon](https://img.shields.io/badge/HackerNoon-00FE00?logo=hackernoon&logoColor=black)](https://hackernoon.com/u/pragyakeshap)   
 ---
 
 ## 🧰 Core Stack
@@ -45,8 +45,8 @@ End-to-end design and hardening of a Docker Desktop extension for secure telemet
 **Confidential Kubernetes on GKE**  
 Architected confidential workloads for sensitive financial data using **AMD SEV-SNP / Intel SGX** and GKE node pools; automated attestation and secrets flow.
 
-**Apigee Edge → Apigee (GCP) Migration**  
-Blueprints, zero-downtime cutover patterns, canary routing, and developer portal modernization for a large API program.
+**On-Prem to GCP Migration**  
+Blueprints, zero-downtime cutover patterns, canary routing, and app modernization for a large API program.
 
 **API Threat Analytics on GCP**  
 Real-time dashboards with **Cloud Logging + Chronicle**; anomaly rules and enrichment pipeline for API abuse and exfiltration.
@@ -61,7 +61,6 @@ Frameworks aligning **NIST AI RMF, EU AI Act, GDPR/CCPA** with practical enginee
 - [`docker-lockbox-demo`](https://github.com/pragyakeshap/docker-lockbox-demo) — Docker extension + observability patterns  
 - [`confidential-gke-starter`](https://github.com/pragyakeshap/confidential-gke-starter) — SGX/SEV-SNP node pools + attestation  
 - [`api-threat-analytics`](https://github.com/pragyakeshap/api-threat-analytics) — Cloud Logging + Chronicle dashboards  
-- [`ai-governance-toolkit`](https://github.com/pragyakeshap/ai-governance-toolkit) — controls, checklists, templates  
 - [`rtc-demo`](https://github.com/pragyakeshap/rtc-demo) — Real-time communication demo with WebRTC  
 
 ---
