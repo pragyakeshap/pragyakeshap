@@ -16,7 +16,6 @@ I love turning complex problems into clear, reliable, and human-centered solutio
 
 ## 🔗 Featured Links
 
-[![Website](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://pragyakeshap.github.io)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragyakeshap/)   
 [![DZone](https://img.shields.io/badge/DZone-2C7BE5?logo=readme&logoColor=white)](https://dzone.com/users/5309371/pragya-keshap)   
 [![HackerNoon](https://img.shields.io/badge/HackerNoon-00FE00?logo=hackernoon&logoColor=black)](https://hackernoon.com/u/pragyakeshap)   
