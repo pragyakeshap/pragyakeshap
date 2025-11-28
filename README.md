@@ -7,25 +7,26 @@ Most of my projects here come from late-night curiosity and the desire to stay f
 
 ---
 
-## 🚀 Selected Work
+## � Selected Work
 
 **Docker Lockbox — Enterprise Observability Extension**  
 End-to-end design and hardening of a Docker Desktop extension for secure telemetry with RBAC, signed manifests, and policy-as-code controls.
 
-- 🔭 **Current focus:** AI-enabled DevSecOps, API threat analytics, confidential computing (SGX / SEV-SNP), and governance for trustworthy AI  
-- 🧭 **What I do:** Architecture reviews, hands-on prototypes, migration playbooks 
-- ✍️ **Write:** Cloud security, Observability, AI governance, API gateways — articles, book chapters, and conference papers  
-- 🤝 **Collaborate on:** Docker extensions, GKE patterns, Application modernization, cloud migration, cloud security, dashboards, and policy-as-code labs  
+**Confidential Kubernetes on GKE**  
+Architected confidential workloads for sensitive financial data using **AMD SEV-SNP / Intel SGX** and GKE node pools; automated attestation and secrets flow.
 
-<div align="center">
-  
-### 💫 Building the Future of Cloud-Native Security
+**On-Prem to GCP Migration**  
+Blueprints, zero-downtime cutover patterns, canary routing, and app modernization for a large API program.
 
-</div>
+**API Threat Analytics on GCP**  
+Real-time dashboards with **Cloud Logging + Chronicle**; anomaly rules and enrichment pipeline for API abuse and exfiltration.
+
+**AI Governance & Risk Toolkits**  
+Frameworks aligning **NIST AI RMF, EU AI Act, GDPR/CCPA** with practical engineering checklists and audit-ready artifacts.
 
 ---
 
-## 🔗 Featured Links
+## �🔗 Featured Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragyakeshap/)   
 [![DZone](https://img.shields.io/badge/DZone-2C7BE5?logo=readme&logoColor=white)](https://dzone.com/users/5309371/pragya-keshap)   
