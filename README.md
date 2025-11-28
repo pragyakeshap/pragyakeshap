@@ -72,6 +72,29 @@ Frameworks aligning **NIST AI RMF, EU AI Act, GDPR/CCPA** with practical enginee
 
 ---
 
+## 📰 Published Articles
+
+### 🔒 Cloud Security & DevSecOps
+- **[The gh0stEdit Attack: How Hackers Hide in Docker Image Layers](https://hackernoon.com/the-gh0stedit-attack-how-hackers-hide-in-docker-image-layers)** - *HackerNoon* | Uncovering sophisticated Docker image layer attacks and defense strategies
+- **[Confidential Kubernetes: Securing Data in Use with Google Cloud's TEEs](https://hackernoon.com/confidential-kubernetes-securing-data-in-use-with-google-clouds-tees)** - *HackerNoon* | Implementing confidential computing with Trusted Execution Environments on GKE
+
+### ☁️ Cloud Architecture & High Availability
+- **[Zero Downtime with Akamai GTM: Multi-Region Load Balancing Made Simple](https://hackernoon.com/zero-downtime-with-akamai-gtm-multi-region-load-balancing-made-simple)** - *HackerNoon* | Architecting resilient multi-region deployments with Akamai Global Traffic Management
+
+### 🤖 AI & Machine Learning Operations
+- **[LLMOps Under the Hood: Docker Practices for Large Language Model Deployment](https://dzone.com/articles/llmops-docker-practices-llm-deployment)** - *DZone* | Containerizing LLMs with GPU support, scaling on Kubernetes, and production best practices
+- **[From Laptop to Cloud: Building and Scaling AI Agents With Docker Compose and Offload](https://dzone.com/articles/ai-agents-docker-compose-cloud-offload)** - *DZone* | Multi-service AI agent architecture with local development and cloud GPU scaling
+- **[Securing AI Agents With Docker MCP and cagent: Building Trust in Cloud-Native Workflows](https://cloudnativenow.com/contributed-content/securing-ai-agents-with-docker-mcp-and-cagent-building-trust-in-cloud-native-workflows/)** - *CloudNativeNow* | Implementing secure AI agent workflows with Docker's Model Context Protocol and container isolation
+
+### ☁️ Cloud Architecture & API Management
+- **[WebRTC at Scale: Docker, GPU Nodes, Prometheus, and Latency-Based Autoscaling on GKE](https://dzone.com/articles/WebRTC-at-Scale-GPU-Nodes-Prometheus-and-Latency-Based-Autoscaling-on-GKE)** - *DZone* | Real-time application scaling with GPU acceleration and custom metrics
+- **[A Practical Guide to API Threat Analytics in Cloud Platforms](https://dzone.com/articles/api-threat-analytics-cloud-guide)** - *DZone* | Building comprehensive API security monitoring and threat detection systems
+- **[Apigee Edge to Apigee in GCP Migration—Replacing ExtensionCallout policy With MessageLogging Policy for Logging](https://dzone.com/articles/apigee-edge-to-google-cloud-migration-extensioncallout)** - *DZone* | Enterprise API gateway migration strategies and policy modernization
+
+> 📝 **Want to collaborate on an article?** I'm always interested in technical writing partnerships focusing on cloud security, AI governance, and DevSecOps. Reach out via [LinkedIn](https://www.linkedin.com/in/pragyakeshap/)!
+
+---
+
 ## 📣 Open to
 
 - Architecture reviews & threat modeling for AI/ML and APIs  
