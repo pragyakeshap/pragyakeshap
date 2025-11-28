@@ -7,7 +7,7 @@ Most of my projects here come from late-night curiosity and the desire to stay f
 
 ---
 
-## � Selected Work
+## �🚀  Selected Work
 
 **Docker Lockbox — Enterprise Observability Extension**  
 End-to-end design and hardening of a Docker Desktop extension for secure telemetry with RBAC, signed manifests, and policy-as-code controls.
@@ -60,25 +60,6 @@ Frameworks aligning **NIST AI RMF, EU AI Act, GDPR/CCPA** with practical enginee
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white)
 
-
----
-
-## �🚀 Selected Work
-
-**Docker Lockbox — Enterprise Observability Extension**  
-End-to-end design and hardening of a Docker Desktop extension for secure telemetry with RBAC, signed manifests, and policy-as-code controls.
-
-**Confidential Kubernetes on GKE**  
-Architected confidential workloads for sensitive financial data using **AMD SEV-SNP / Intel SGX** and GKE node pools; automated attestation and secrets flow.
-
-**On-Prem to GCP Migration**  
-Blueprints, zero-downtime cutover patterns, canary routing, and app modernization for a large API program.
-
-**API Threat Analytics on GCP**  
-Real-time dashboards with **Cloud Logging + Chronicle**; anomaly rules and enrichment pipeline for API abuse and exfiltration.
-
-**AI Governance & Risk Toolkits**  
-Frameworks aligning **NIST AI RMF, EU AI Act, GDPR/CCPA** with practical engineering checklists and audit-ready artifacts.
 
 ---
 
