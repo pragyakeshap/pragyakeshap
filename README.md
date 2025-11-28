@@ -1,13 +1,16 @@
 
 # Hi, I'm Pragya Keshap 👋
 
-**Technical Lead** buildin---
+**Technical Architect** explor![Istio](https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white), AI, and real-time systems.  
+I love building secure, scalable solutions and learning new technologies through hands-on experiments.  
+Most of my projects here come from late-night curiosity and the desire to stay future-ready.
+
+---
 
 ## 🚀 Selected Work
 
-**Docker Lockbox — Enterprise Observability Extension**ure, scalable, cloud-native systems in **e-commerce, fintech, and enterprise**.  
-I design AI-driven platforms with a strong focus on **cloud security, API management, and containerized deployments** on **Google Cloud**, **Kubernetes**, and **Docker**.  
-I love turning complex problems into clear, reliable, and human-centered solutions.
+**Docker Lockbox — Enterprise Observability Extension**  
+End-to-end design and hardening of a Docker Desktop extension for secure telemetry with RBAC, signed manifests, and policy-as-code controls.
 
 - 🔭 **Current focus:** AI-enabled DevSecOps, API threat analytics, confidential computing (SGX / SEV-SNP), and governance for trustworthy AI  
 - 🧭 **What I do:** Architecture reviews, hands-on prototypes, migration playbooks 
