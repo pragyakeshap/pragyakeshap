@@ -1,8 +1,8 @@
 ![Cloud-Native Security Banner](assets/banner.png)
 
-# Hi, I'm Pragya Keshap �
+# Hi,---
 
-## 🚀 Selected Workeshap 👋
+## 🚀 Selected Work🚀 Selected Workeshap 👋
 
 **Technical Lead** building secure, scalable, cloud-native systems in **e-commerce, fintech, and enterprise**.  
 I design AI-driven platforms with a strong focus on **cloud security, API management, and containerized deployments** on **Google Cloud**, **Kubernetes**, and **Docker**.  
