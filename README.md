@@ -1,9 +1,11 @@
 
 # Hi, I'm Pragya Keshap 👋
 
-**Technical Lead** buildi---
+**Technical Lead** buildin---
 
-## 🚀 Selected Workable, cloud-native systems in **e-commerce, fintech, and enterprise**.  
+## 🚀 Selected Work
+
+**Docker Lockbox — Enterprise Observability Extension**ure, scalable, cloud-native systems in **e-commerce, fintech, and enterprise**.  
 I design AI-driven platforms with a strong focus on **cloud security, API management, and containerized deployments** on **Google Cloud**, **Kubernetes**, and **Docker**.  
 I love turning complex problems into clear, reliable, and human-centered solutions.
 
@@ -54,17 +56,6 @@ I love turning complex problems into clear, reliable, and human-centered solutio
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white)
 
----
-
-## � GitHub Activity
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragyakeshap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragyakeshap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8)
-
-</div>
 
 ---
 
