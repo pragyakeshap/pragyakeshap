@@ -1,9 +1,7 @@
 
 # Hi, I'm Pragya Keshap 👋
 
-**Technical Lead** buildi---
-
-## 🚀 Selected Workable, cloud-native systems in **e-commerce, fintech, and enterprise**.  
+**Technical Lead** building secure, scalable, cloud-native systems in **e-commerce, fintech, and enterprise**.  
 I design AI-driven platforms with a strong focus on **cloud security, API management, and containerized deployments** on **Google Cloud**, **Kubernetes**, and **Docker**.  
 I love turning complex problems into clear, reliable, and human-centered solutions.
 
