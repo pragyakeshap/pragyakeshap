@@ -1,7 +1,7 @@
 
 # Hi, I'm Pragya Keshap 👋
 
-**Technical Architect** explor![Istio](https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white), AI, and real-time systems.  
+**Technical Architect** exploring cloud, AI, and real-time systems.  
 I love building secure, scalable solutions and learning new technologies through hands-on experiments.  
 Most of my projects here come from late-night curiosity and the desire to stay future-ready.
 
