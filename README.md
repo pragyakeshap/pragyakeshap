@@ -11,6 +11,11 @@ I love turning complex problems into clear, reliable, and human-centered solutio
 - ✍️ **Write:** Cloud security, Observability, AI governance, API gateways — articles, book chapters, and conference papers  
 - 🤝 **Collaborate on:** Docker extensions, GKE patterns, Application modernization, cloud migration, cloud security, dashboards, and policy-as-code labs  
 
+<div align="center">
+  
+### 💫 Building the Future of Cloud-Native Security
+
+</div>
 
 ---
 
@@ -18,25 +23,51 @@ I love turning complex problems into clear, reliable, and human-centered solutio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragyakeshap/)   
 [![DZone](https://img.shields.io/badge/DZone-2C7BE5?logo=readme&logoColor=white)](https://dzone.com/users/5309371/pragya-keshap)   
-[![HackerNoon](https://img.shields.io/badge/HackerNoon-00FE00?logo=hackernoon&logoColor=black)](https://hackernoon.com/u/pragyakeshap)   
+[![HackerNoon](https://img.shields.io/badge/HackerNoon-00FE00?logo=hackernoon&logoColor=black)](https://hackernoon.com/u/pragyakeshap)
+[![CloudNativeNow](https://img.shields.io/badge/CloudNativeNow-4285F4?logo=medium&logoColor=white)](https://cloudnativenow.com/author/pragya-keshap/)
+
+**📊 Writing Portfolio:**  
+![Articles](https://img.shields.io/badge/Published%20Articles-9-brightgreen)
+![Platforms](https://img.shields.io/badge/Platforms-3-blue)
+![Topics](https://img.shields.io/badge/Focus%20Areas-4-orange)
+
 ---
 
 ## 🧰 Core Stack
 
+**☁️ Cloud Platforms & Container Orchestration:**  
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Apigee](https://img.shields.io/badge/Apigee-FF6D00?logo=apigee&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
+
+**🔧 Languages & Infrastructure:**  
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+
+**📊 API Management & Observability:**  
+![Apigee](https://img.shields.io/badge/Apigee-FF6D00?logo=apigee&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white)
 
 ---
 
-## 🚀 Selected Work
+## � GitHub Activity
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragyakeshap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragyakeshap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8)
+
+</div>
+
+---
+
+## �🚀 Selected Work
 
 **Docker Lockbox — Enterprise Observability Extension**  
 End-to-end design and hardening of a Docker Desktop extension for secure telemetry with RBAC, signed manifests, and policy-as-code controls.
@@ -74,22 +105,60 @@ Frameworks aligning **NIST AI RMF, EU AI Act, GDPR/CCPA** with practical enginee
 
 ## 📰 Published Articles
 
-### 🔒 Cloud Security & DevSecOps
-- **[The gh0stEdit Attack: How Hackers Hide in Docker Image Layers](https://hackernoon.com/the-gh0stedit-attack-how-hackers-hide-in-docker-image-layers)** - *HackerNoon* | Uncovering sophisticated Docker image layer attacks and defense strategies
-- **[Confidential Kubernetes: Securing Data in Use with Google Cloud's TEEs](https://hackernoon.com/confidential-kubernetes-securing-data-in-use-with-google-clouds-tees)** - *HackerNoon* | Implementing confidential computing with Trusted Execution Environments on GKE
+<details>
+<summary>🔒 <strong>Cloud Security & DevSecOps</strong> (2 articles)</summary>
 
-### ☁️ Cloud Architecture & High Availability
-- **[Zero Downtime with Akamai GTM: Multi-Region Load Balancing Made Simple](https://hackernoon.com/zero-downtime-with-akamai-gtm-multi-region-load-balancing-made-simple)** - *HackerNoon* | Architecting resilient multi-region deployments with Akamai Global Traffic Management
+<br>
 
-### 🤖 AI & Machine Learning Operations
-- **[LLMOps Under the Hood: Docker Practices for Large Language Model Deployment](https://dzone.com/articles/llmops-docker-practices-llm-deployment)** - *DZone* | Containerizing LLMs with GPU support, scaling on Kubernetes, and production best practices
-- **[From Laptop to Cloud: Building and Scaling AI Agents With Docker Compose and Offload](https://dzone.com/articles/ai-agents-docker-compose-cloud-offload)** - *DZone* | Multi-service AI agent architecture with local development and cloud GPU scaling
-- **[Securing AI Agents With Docker MCP and cagent: Building Trust in Cloud-Native Workflows](https://cloudnativenow.com/contributed-content/securing-ai-agents-with-docker-mcp-and-cagent-building-trust-in-cloud-native-workflows/)** - *CloudNativeNow* | Implementing secure AI agent workflows with Docker's Model Context Protocol and container isolation
+- **[The gh0stEdit Attack: How Hackers Hide in Docker Image Layers](https://hackernoon.com/the-gh0stedit-attack-how-hackers-hide-in-docker-image-layers)** - *HackerNoon*  
+  `🐳 Docker Security` `🔍 Container Analysis` `⚡ Attack Vectors` `🛡️ Defense Strategies`
 
-### ☁️ Cloud Architecture & API Management
-- **[WebRTC at Scale: Docker, GPU Nodes, Prometheus, and Latency-Based Autoscaling on GKE](https://dzone.com/articles/WebRTC-at-Scale-GPU-Nodes-Prometheus-and-Latency-Based-Autoscaling-on-GKE)** - *DZone* | Real-time application scaling with GPU acceleration and custom metrics
-- **[A Practical Guide to API Threat Analytics in Cloud Platforms](https://dzone.com/articles/api-threat-analytics-cloud-guide)** - *DZone* | Building comprehensive API security monitoring and threat detection systems
-- **[Apigee Edge to Apigee in GCP Migration—Replacing ExtensionCallout policy With MessageLogging Policy for Logging](https://dzone.com/articles/apigee-edge-to-google-cloud-migration-extensioncallout)** - *DZone* | Enterprise API gateway migration strategies and policy modernization
+- **[Confidential Kubernetes: Securing Data in Use with Google Cloud's TEEs](https://hackernoon.com/confidential-kubernetes-securing-data-in-use-with-google-clouds-tees)** - *HackerNoon*  
+  `☁️ GKE` `🔐 Confidential Computing` `🛡️ TEE` `🔒 Data Protection`
+
+</details>
+
+<details>
+<summary>☁️ <strong>Cloud Architecture & High Availability</strong> (1 article)</summary>
+
+<br>
+
+- **[Zero Downtime with Akamai GTM: Multi-Region Load Balancing Made Simple](https://hackernoon.com/zero-downtime-with-akamai-gtm-multi-region-load-balancing-made-simple)** - *HackerNoon*  
+  `🌐 Multi-Region` `⚖️ Load Balancing` `🚀 High Availability` `📈 Scalability`
+
+</details>
+
+<details>
+<summary>🤖 <strong>AI & Machine Learning Operations</strong> (3 articles)</summary>
+
+<br>
+
+- **[LLMOps Under the Hood: Docker Practices for Large Language Model Deployment](https://dzone.com/articles/llmops-docker-practices-llm-deployment)** - *DZone*  
+  `🤖 LLMOps` `🐳 Docker` `📊 GPU Scaling` `☸️ Kubernetes`
+
+- **[From Laptop to Cloud: Building and Scaling AI Agents With Docker Compose and Offload](https://dzone.com/articles/ai-agents-docker-compose-cloud-offload)** - *DZone*  
+  `🤖 AI Agents` `🐳 Docker Compose` `☁️ Cloud GPU` `📱 Local Development`
+
+- **[Securing AI Agents With Docker MCP and cagent: Building Trust in Cloud-Native Workflows](https://cloudnativenow.com/contributed-content/securing-ai-agents-with-docker-mcp-and-cagent-building-trust-in-cloud-native-workflows/)** - *CloudNativeNow*  
+  `🛡️ AI Security` `🤖 MCP` `🔒 Container Isolation` `🔐 Trust Framework`
+
+</details>
+
+<details>
+<summary>☁️ <strong>Cloud Architecture & API Management</strong> (3 articles)</summary>
+
+<br>
+
+- **[WebRTC at Scale: Docker, GPU Nodes, Prometheus, and Latency-Based Autoscaling on GKE](https://dzone.com/articles/WebRTC-at-Scale-GPU-Nodes-Prometheus-and-Latency-Based-Autoscaling-on-GKE)** - *DZone*  
+  `📹 WebRTC` `🎮 GPU Acceleration` `📊 Custom Metrics` `⚡ Latency Optimization`
+
+- **[A Practical Guide to API Threat Analytics in Cloud Platforms](https://dzone.com/articles/api-threat-analytics-cloud-guide)** - *DZone*  
+  `🔍 Threat Analytics` `🛡️ API Security` `📊 Monitoring` `☁️ Cloud Platforms`
+
+- **[Apigee Edge to Apigee in GCP Migration—Replacing ExtensionCallout policy With MessageLogging Policy for Logging](https://dzone.com/articles/apigee-edge-to-google-cloud-migration-extensioncallout)** - *DZone*  
+  `🔄 API Migration` `🚀 Apigee` `📝 Policy Migration` `☁️ GCP Integration`
+
+</details>
 
 > 📝 **Want to collaborate on an article?** I'm always interested in technical writing partnerships focusing on cloud security, AI governance, and DevSecOps. Reach out via [LinkedIn](https://www.linkedin.com/in/pragyakeshap/)!
 
@@ -113,6 +182,29 @@ If any of the above resonates, feel free to reach out on **[LinkedIn](https://ww
 
 ---
 
-## 🤝 Support & Connect
+## 🤝 Let's Connect!
 
-If this repo helped you, consider ⭐️-ing the pinned projects or sharing a link with your team.
+<div align="center">
+
+### 💬 Open for Collaboration
+
+**I'm interested in:**
+- 🏗️ **Architecture Reviews** & Threat Modeling
+- 🤖 **AI/ML Security** & Governance Projects  
+- ✍️ **Technical Writing** Partnerships
+- 🎤 **Speaking Opportunities** & Conferences
+
+<br>
+
+<a href="https://www.linkedin.com/in/pragyakeshap/">
+  <img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:pragya.rawal@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+⭐ **If this helped you, consider starring the pinned projects!** ⭐
+
+</div>
