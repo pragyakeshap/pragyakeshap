@@ -2,11 +2,7 @@
 
 # H---
 
-## 🚀 Sel---
-
-## 🚀 Selected Work
-
-**Docker Lockbox — Enterprise Observability Extension** Workeshap 👋
+## 🚀 Selected Workeshap 👋
 
 **Technical Lead** building secure, scalable, cloud-native systems in **e-commerce, fintech, and enterprise**.  
 I design AI-driven platforms with a strong focus on **cloud security, API management, and containerized deployments** on **Google Cloud**, **Kubernetes**, and **Docker**.  
@@ -194,11 +190,11 @@ If any of the above resonates, feel free to reach out on **[LinkedIn](https://ww
 
 ### 💬 Open for Collaboration
 
-**I'm interested in:**
-- 🏗️ **Architecture Reviews** & Threat Modeling
-- 🤖 **AI/ML Security** & Governance Projects  
-- ✍️ **Technical Writing** Partnerships
-- 🎤 **Speaking Opportunities** & Conferences
+**I'm interested in:**  
+🏗️ **Architecture Reviews** & Threat Modeling  
+🤖 **AI/ML Security** & Governance Projects  
+✍️ **Technical Writing** Partnerships  
+🎤 **Speaking Opportunities** & Conferences
 
 <br>
 
