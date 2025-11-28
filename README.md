@@ -109,7 +109,7 @@ Frameworks aligning **NIST AI RMF, EU AI Act, GDPR/CCPA** with practical enginee
 
 ## 📰 Published Articles
 
-<details>
+<details open>
 <summary>🔒 <strong>Cloud Security & DevSecOps</strong> (2 articles)</summary>
 
 <br>
@@ -122,7 +122,7 @@ Frameworks aligning **NIST AI RMF, EU AI Act, GDPR/CCPA** with practical enginee
 
 </details>
 
-<details>
+<details open>
 <summary>☁️ <strong>Cloud Architecture & High Availability</strong> (1 article)</summary>
 
 <br>
@@ -132,7 +132,7 @@ Frameworks aligning **NIST AI RMF, EU AI Act, GDPR/CCPA** with practical enginee
 
 </details>
 
-<details>
+<details open>
 <summary>🤖 <strong>AI & Machine Learning Operations</strong> (3 articles)</summary>
 
 <br>
@@ -148,7 +148,7 @@ Frameworks aligning **NIST AI RMF, EU AI Act, GDPR/CCPA** with practical enginee
 
 </details>
 
-<details>
+<details open>
 <summary>☁️ <strong>Cloud Architecture & API Management</strong> (3 articles)</summary>
 
 <br>
