@@ -1,8 +1,12 @@
 ![Cloud-Native Security Banner](assets/banner.png)
 
-# Hi,---
+# H---
 
-## 🚀 Selected Work🚀 Selected Workeshap 👋
+## 🚀 Sel---
+
+## 🚀 Selected Work
+
+**Docker Lockbox — Enterprise Observability Extension** Workeshap 👋
 
 **Technical Lead** building secure, scalable, cloud-native systems in **e-commerce, fintech, and enterprise**.  
 I design AI-driven platforms with a strong focus on **cloud security, API management, and containerized deployments** on **Google Cloud**, **Kubernetes**, and **Docker**.  
