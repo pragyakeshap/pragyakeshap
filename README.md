@@ -1,8 +1,6 @@
 ![Cloud-Native Security Banner](assets/banner.png)
 
-#![Istio](https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white)
-
----
+# Hi, I'm Pragya Keshap �
 
 ## 🚀 Selected Workeshap 👋
 
