@@ -29,6 +29,7 @@ Frameworks aligning **NIST AI RMF, EU AI Act, GDPR/CCPA** with practical enginee
 ## �🔗 Featured Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragyakeshap/)   
+[![O'reilly](https://img.shields.io/badge/O'Reilly-%23D30000.svg?style=for-the-badge&logo=o%27reilly&logoColor=F1F1F1)](https://www.oreilly.com/people/pragya-keshap/)   
 [![DZone](https://img.shields.io/badge/DZone-2C7BE5?logo=readme&logoColor=white)](https://dzone.com/users/5332516/pragyakeshap.html)   
 [![HackerNoon](https://img.shields.io/badge/HackerNoon-00FE00?logo=hackernoon&logoColor=black)](https://hackernoon.com/u/pragyakeshap)
 [![CloudNativeNow](https://img.shields.io/badge/CloudNativeNow-4285F4?logo=medium&logoColor=white)](https://cloudnativenow.com/author/pragya-keshap/)
